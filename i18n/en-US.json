@@ -1,0 +1,29 @@
+{
+  "htmlLang": "en-US",
+  "title": "Hormuz Diet Calendar",
+  "description": "Hormuz Diet Calendar: a month view marking war days and ceasefire days since 2026.",
+  "eyebrow": "Hormuz Diet Protocol",
+  "calendarLabel": "Calendar",
+  "languageAria": "Language switch",
+  "languages": {
+    "zh-CN": "中文",
+    "en-US": "English"
+  },
+  "weekdays": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+  "statusLabels": {
+    "war": "War Day",
+    "ceasefire": "Ceasefire Day"
+  },
+  "dietLabels": {
+    "war": "Normal eating",
+    "ceasefire": "16:8 / light meals"
+  },
+  "aria": {
+    "prevMonth": "Previous month",
+    "nextMonth": "Next month",
+    "selectMonth": "Select month"
+  },
+  "errors": {
+    "loadData": "Unable to load public/data/war-days.json. Check the file path and JSON format."
+  }
+}

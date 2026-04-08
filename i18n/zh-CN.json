@@ -1,0 +1,29 @@
+{
+  "htmlLang": "zh-CN",
+  "title": "霍尔木兹减肥日历",
+  "description": "霍尔木兹减肥日历：用月历标记 2026 年以来的战争日与停火日。",
+  "eyebrow": "霍尔木兹饮食协议",
+  "calendarLabel": "月历",
+  "languageAria": "语言切换",
+  "languages": {
+    "zh-CN": "中文",
+    "en-US": "English"
+  },
+  "weekdays": ["周一", "周二", "周三", "周四", "周五", "周六", "周日"],
+  "statusLabels": {
+    "war": "战争日",
+    "ceasefire": "停火日"
+  },
+  "dietLabels": {
+    "war": "恢复正常饮食",
+    "ceasefire": "16+8 / 轻食"
+  },
+  "aria": {
+    "prevMonth": "上一个月",
+    "nextMonth": "下一个月",
+    "selectMonth": "选择月份"
+  },
+  "errors": {
+    "loadData": "public/data/war-days.json 读取失败，请检查文件路径和 JSON 格式。"
+  }
+}
